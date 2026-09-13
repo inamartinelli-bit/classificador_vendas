@@ -1,4 +1,4 @@
-# 🛍️ Módulo de Feedback Automático: CLASSIFICADOR DE METAS
+# 🏆 Módulo de Feedback Automático: CLASSIFICADOR DE METAS
 
 ---
 
